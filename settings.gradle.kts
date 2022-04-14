@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "MyDictionaryApp"
-include ':app'
+include (":app")
